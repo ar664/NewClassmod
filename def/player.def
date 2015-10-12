@@ -1054,8 +1054,9 @@ entityDef player_marine_mp
 {
 	"inherit"			"player_marine"
 
-	"weapon"			"weapon_machinegun,weapon_gauntlet"
-	"current_weapon"		"1"
+	"weapon"			"weapon_gauntlet"
+	"weaponLight"		"weapon_machinegun"
+	"current_weapon"		"0"
 
 	// replce blaster with gauntlet in MP
 	"def_weapon0"						"weapon_gauntlet"
@@ -1064,7 +1065,7 @@ entityDef player_marine_mp
 	"weapon0_flashlight"					"0"
 
 	// remove MG flashlight in MP
-	"weapon1_flashlight"		"0"
+	"weapon1_flashlight"		"1"
 	
 	// re-add gren, rocket, rail, DMG, and Napalm Launcher to weapon switch list
 	"weapon4_best"			"1"
@@ -1091,6 +1092,7 @@ entityDef player_marine_mp
 
 	"pm_crouchspeed"		"160"
 	"pm_speed"			"320"
+	"pm_speedLight"		"340"
 	"pm_walkspeed"			"160"
 
 	"fx_spawn"			"effects/mp/player/spawn.fx"
