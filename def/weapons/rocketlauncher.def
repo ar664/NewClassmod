@@ -83,7 +83,7 @@ entityDef weapon_rocketlauncher
 	"ammoRegenTime"				"1750"
 	
 	"weaponname"				"Rocket Launcher"
-	"def_projectile"			"projectile_rocket"
+	"def_hitscan"				"hitscan_bullet"
 	"ammoType"					"ammo_rocketlauncher"
 	"clipSize"					"1"
 	"ammoRequired"				"1"

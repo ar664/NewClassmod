@@ -103,7 +103,7 @@ entityDef weapon_dmg
 	"inv_name"					"#str_107401"	
 
 	"weaponname"				"Dark Matter Gun"
-	"def_projectile"			"projectile_dmg"
+	"def_hitscan"				"hitscan_bullet"
 	"ammoType"					"ammo_dmg"
 	"clipSize"					"1"
 	"ammoRequired"				"1"

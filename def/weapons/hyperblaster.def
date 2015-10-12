@@ -66,7 +66,7 @@ entityDef weapon_hyperblaster
   	"model_world"				"weapon_hyperblaster_world"
 	"model"						"models/weapons/hyperblaster/w_hb.lwo"
 	"def_dropItem"				"weapon_hyperblaster"
-	"def_projectile"			"projectile_hyperblaster"
+	"def_hitscan"				"hitscan_bullet_mp"
 
 	"joint_attach"				"HB_ATTACHER"
 	"joint_view_guiLight"		"body"
