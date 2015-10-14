@@ -83,7 +83,7 @@ entityDef weapon_lightninggun
 
 	"mtr_crosshair"				"gfx/guis/crosshairs/crosshair_lightninggun"
 	"ammoType"					"ammo_lightninggun"
-	"ammoRequired"				"1"
+	"ammoRequired"				"0"
 	"clipSize"					"0"
 	"lowAmmo"					"10"
 	"mtr_icon"					"gfx/guis/hud/icons/gun_lightninggun"

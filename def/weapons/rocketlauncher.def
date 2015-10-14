@@ -75,7 +75,7 @@ entityDef weapon_rocketlauncher
 	"inv_icon"					"gfx/guis/hud/icons/item_rocket.tga"
 	"inv_name"					"#str_107409"	
 
-	"fireRate"					".8"
+	"fireRate"					".9"
 	"reloadRate"				".8"
 	"spread"					"0"
 
@@ -86,7 +86,7 @@ entityDef weapon_rocketlauncher
 	"def_hitscan"				"hitscan_bullet"
 	"ammoType"					"ammo_rocketlauncher"
 	"clipSize"					"1"
-	"ammoRequired"				"1"
+	"ammoRequired"				"0"
 	"gui"						"guis/weapons/rocketlauncher_ammo.gui"
 	"mtr_icon"					"gfx/guis/hud/icons/gun_rocketlauncher"
 

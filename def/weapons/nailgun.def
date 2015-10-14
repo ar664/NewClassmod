@@ -126,7 +126,7 @@ entityDef weapon_nailgun
 	"def_hitscan"				"hitscan_bullet_mp"
 	"def_althitscan"			"hitscan_zoomed_bullet"
 	"ammoType"					"ammo_nailgun"
-	"ammoRequired"				"1"
+	"ammoRequired"				"0"
 	"clipSize"					"50"
 	"lowAmmo"					"1"
 
@@ -328,7 +328,7 @@ entityDef wpmod_nailgun_power
 	"mod_showsurface2"			"models/weapons/nailgun_mod_ammo"
 	"mod_hidesurface"			"models/weapons/nailgun_clip"
 
-	"fireRate"					".12"
+	"fireRate"					".07"
 	"drumSpeed"					"1.25"
 	"clipSize"					"100"
 }

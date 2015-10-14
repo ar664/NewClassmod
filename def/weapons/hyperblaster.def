@@ -93,7 +93,7 @@ entityDef weapon_hyperblaster
 	"ammoRegenStep"				"5"
 	"ammoRegenTime"				"1500"
 	"clipSize"					"60"									// large for smooth regen
-	"ammoRequired"				"1"										// ammo is handled in the script file
+	"ammoRequired"				"0"										// ammo is handled in the script file
 	"gui"						"guis/weapons/hyperblaster_ammo.gui"
 	"mtr_icon"					"gfx/guis/hud/icons/gun_hyperblaster"
 	
