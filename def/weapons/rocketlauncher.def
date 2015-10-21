@@ -77,16 +77,16 @@ entityDef weapon_rocketlauncher
 
 	"fireRate"					".8"
 	"reloadRate"				".8"
-	"spread"					"0"
+	"spread"					"5"
 
 	"ammoRegenStep"				"1"
 	"ammoRegenTime"				"1750"
 	
 	"weaponname"				"Rocket Launcher"
-	"def_hitscan"				"hitscan_bullet"
+	"def_projectile"			"projectile_rocket"
 	"ammoType"					"ammo_rocketlauncher"
 	"clipSize"					"1"
-	"ammoRequired"				"0"
+	"ammoRequired"				"1"
 	"gui"						"guis/weapons/rocketlauncher_ammo.gui"
 	"mtr_icon"					"gfx/guis/hud/icons/gun_rocketlauncher"
 
