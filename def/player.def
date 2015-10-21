@@ -1093,7 +1093,7 @@ entityDef player_marine_mp
 
 	"pm_crouchspeed"		"160"
 	"pm_speed"			"320"
-	"pm_speedLight"		"340"
+	//"pm_speedLight"		"340"
 	"pm_walkspeed"			"160"
 
 	"fx_spawn"			"effects/mp/player/spawn.fx"
